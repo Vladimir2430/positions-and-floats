@@ -1,6 +1,6 @@
 # Страница доступна по ссылке:
 # https://vladimir2430.github.io/positions-and-floats
-Pixel Perfect is reference point of the task.
+# Pixel Perfect is reference point of the task.
 
 # Техническое Задание:
 1. Общее:
