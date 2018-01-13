@@ -3,13 +3,13 @@
 Pixel Perfect is reference point of the task.
 
 # Техническое Задание:
-1.Общее:
+1.Общее:</br>
 -Файл HTML назвать index.html</br>
 -Сделать отдельные папки с картинками, шрифтами, стилями. Если все будет в одном каталоге на уровне с index.html, минус 10 баллов.
 
-2.Семантическая верстка:
--Использование HTML5 тегов, таких как header (logo + nav), section, article, footer (copyright), form+fields, figure+figcaption; !оценка: 0-10
--Правильное и разумное наименование классов, избегать наименований вроде .orange-square, .left, .big, .horse, а использовать правильные, вроде .heading, .team-link, .member, .avatar-capture, а так же псевдоклассы, вроде :first-child, last-child и другие; !оценка: 0-10
+2.Семантическая верстка:</br>
+-Использование HTML5 тегов, таких как header (logo + nav), section, article, footer (copyright), form+fields, figure+figcaption; !оценка: 0-10</br>
+-Правильное и разумное наименование классов, избегать наименований вроде .orange-square, .left, .big, .horse, а использовать правильные, вроде .heading, .team-link, .member, .avatar-capture, а так же псевдоклассы, вроде :first-child, last-child и другие; !оценка: 0-10</br>
 -Использование id для стилей - ошибка, ** минус 5 баллов**.
 
 3.Логотип сделать одной картинкой (не надо отдельно делать каждый слой, это касается главного лого). !оценка: 0-5
