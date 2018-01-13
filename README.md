@@ -2,7 +2,7 @@
 # https://vladimir2430.github.io/positions-and-floats
 Pixel Perfect is reference point of the task.
 
-#Техническое Задание
+#Техническое Задание:
 1.Общее:
 -Файл HTML назвать index.html
 -Сделать отдельные папки с картинками, шрифтами, стилями. Если все будет в одном каталоге на уровне с index.html, минус 10 баллов.
