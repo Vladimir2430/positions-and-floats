@@ -1,5 +1,5 @@
 # Do you want to see my work?
-# <a href="http://uladzimir-yeudakimovich.github.io/positions-and-floats">Click there ;)</a>
+# <a href="http://uladzimir-yeudakimovich.ml/positions-and-floats/">Click there ;)</a>
 # Pixel Perfect is reference point of the task.
 
 # Техническое Задание:
