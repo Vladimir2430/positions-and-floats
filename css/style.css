@@ -1,21 +1,21 @@
 @font-face {
-	font-family: "Bebas"; 
-	src: url(../fonts/Bebas.woff2); 
+	font-family: "Bebas";
+	src: url(../fonts/Bebas.woff2);
 }
 
 @font-face {
-	font-family: "Calibri"; 
-	src: url(../fonts/Calibri.woff2); 
+	font-family: "Calibri";
+	src: url(../fonts/Calibri.woff2);
 }
 
 
 @font-face {
-	font-family: "Stmarie"; 
-	src: url(../fonts/Stmarie.woff2); 
+	font-family: "Stmarie";
+	src: url(../fonts/Stmarie.woff2);
 }
 
 *{
-   	margin:0;
+  margin:0;
 	padding:0;
 }
 
@@ -36,7 +36,7 @@ header{
 }
 
 .wrapper {
-    margin: 0 auto;
+  margin: 0 auto;
 	width: 1240px;
 	padding: 0px 13px;
 	overflow: hidden;
@@ -51,22 +51,22 @@ header{
 
 .logo>img{
 	display: block;
-    float: left;
-    margin: 10px 20px;
+  float: left;
+  margin: 10px 20px;
 }
 
 h1{
 	font-family: "Calibri", "Verdana", sans-serif;
-    font-size: 3.7rem;
-    color: #fb9c06;
-    text-align: center;
-   	letter-spacing: 0.6px;
-    float: right;
-    padding: 15px;
+  font-size: 3.7rem;
+  color: #fb9c06;
+  text-align: center;
+  letter-spacing: 0.6px;
+  float: right;
+  padding: 15px;
 }
 
 h1>span{
-	font-family: "Bebas", "Verdana", sans-serif; 
+	font-family: "Bebas", "Verdana", sans-serif;
 	color: #6e6d6b;
 }
 
@@ -78,17 +78,16 @@ nav{
 }
 
 nav>a{
-	display: inline-block;
-    float: left;
-    width: 100px;
-    font-family: "Calibri", "Verdana", sans-serif;
-    font-size: 2.2rem;
-    color: #9e9b9b;
-    text-decoration: none;
-	letter-spacing: 0.5px;
-    text-align: center;
-    padding: 82px 10px 20px 10px;
-	background:url(../images/sprite.png) no-repeat;
+  float: left;
+  width: 100px;
+  font-family: "Calibri", "Verdana", sans-serif;
+  font-size: 2.2rem;
+  color: #9e9b9b;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  text-align: center;
+  padding: 82px 10px 20px 10px;
+  background:url(../images/sprite.png) no-repeat;
 }
 
 nav>a:hover{
@@ -123,40 +122,40 @@ nav>a:nth-child(5){
 
 main {
 	position: relative;
-    top: 134px;
+  top: 134px;
 }
 
 section{
-	width:100%;
-	margin:0 auto;
-	clear:both;
+	width: 100%;
+	margin: 0 auto;
+	clear: both;
 	overflow: hidden;
 }
 
 .slider {
-	height:400px;
+	height: 400px;
 	background: #999 url(../images/backgraund.png) no-repeat center bottom;
-	border-top:3px solid #fb9c06;
-	border-bottom:3px solid #fb9c06;
+	border-top: 3px solid #fb9c06;
+	border-bottom: 3px solid #fb9c06;
 }
 
 .first_question{
 	font-family: "Bebas", "Verdana", sans-serif;
-    font-size: 3.7rem;
-    color: #fb9c06;
-    background-color: rgba(0, 0, 0, 0.69);
-    padding-left: 30px;
-    width: 348px;
-    height: 65px;
-    line-height: 65px;
-    margin: 130px 0 0 22px;
-    letter-spacing: 0.6px;
+  font-size: 3.7rem;
+  color: #fb9c06;
+  background-color: rgba(0, 0, 0, 0.69);
+  padding-left: 30px;
+  width: 348px;
+  height: 65px;
+  line-height: 65px;
+  margin: 130px 0 0 22px;
+  letter-spacing: 0.6px;
 	user-select: none;
 }
 
 .second_question{
 	font-family: "Bebas", "Verdana", sans-serif;
-    font-size: 3.7rem;
+  font-size: 3.7rem;
 	color:#6e6d6b;
 	background-color: rgba(255, 175, 18, 0.7);
 	padding-left: 30px;
@@ -170,23 +169,23 @@ section{
 
 .articles{
 	font-size: 1.5rem;
-	max-height:410px;
+	max-height: 410px;
 }
 
 .articles article{
 	width: 270px;
 	height:190px;
 	padding: 28px 27px 0px 3px;
-    float: left;
-    line-height: 1.56;
-    letter-spacing: 0.35px;
+  float: left;
+  line-height: 1.56;
+  letter-spacing: 0.35px;
 }
 
 .articles article:first-child{
 	padding-left:23px;
 }
 
-.articles article p{
+.articles article h4{
 	height:140px;
 	overflow: hidden;
 }
@@ -197,8 +196,8 @@ section{
 	font-style: italic;
 	color: #ffac00;
 	text-align: right;
-    padding-right: 10px; 
-    text-decoration: none;
+  padding-right: 10px;
+  text-decoration: none;
 }
 
 .articles article a:hover{
@@ -214,15 +213,13 @@ section{
 }
 
 .team h2, .send-message h2{
-	font-family: "Stmarie", serif; 
+	font-family: "Stmarie", serif;
 	font-size: 4.0rem;
 	text-align: center;
 	line-height: 1.6;
-    letter-spacing: 1.1px;
-    margin-right: 15px;
-    margin-bottom: 30px;
-    margin-top: 5px;
-    color: #ffac00;
+  letter-spacing: 1.1px;
+  margin: 5px 15px 30px 0;
+  color: #ffac00;
 }
 
 .team h2>span, .send-message h2>span{
@@ -251,7 +248,7 @@ section{
 }
 
 .team article:nth-child(4) h3{
-	    margin-left: 20px;
+	margin-left: 20px;
 }
 
 .team h3>span{
@@ -263,16 +260,16 @@ section{
 	border-radius: 50%;
 	width:290px;
 	height:290px;
-	margin:30px 0 22px 0;
+	margin:30px 0 22px;
 }
 
 figcaption{
 	font-size: 1.5rem;
-    padding: 0 10px 0 32px;
-    letter-spacing: 0.35px;
-    height: 92px;
-    line-height: 1.55;
-    overflow: hidden;
+  padding: 0 10px 0 32px;
+  letter-spacing: 0.35px;
+  height: 92px;
+  line-height: 1.55;
+  overflow: hidden;
 }
 
 .send-message{
@@ -282,9 +279,7 @@ figcaption{
 }
 
 .send-message h2{
-	margin-left: 10px;
-	margin-bottom: 30px;
-	margin-top: 0px;
+	margin: 0 0 30px 10px;
 }
 
 .send-message p{
@@ -328,8 +323,7 @@ figcaption{
 	float: right;
 	width: 180px;
 	height: 50px;
-	margin-top: 24px;
-	margin-right: 70px;
+	margin: 24px 0 0 70px;
 	background-color: #fb9c06;
 	font-size: 30px;
 	font-family: "Stmarie", serif;
@@ -350,7 +344,7 @@ footer{
 	background-color: #fb9c06;
 	margin-top:50px;
 	position: relative;
-    top: 134px;
+  top: 134px;
 }
 
 footer p{
